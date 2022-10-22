@@ -1,1 +1,1 @@
-stock = 'CPLE6'
+stocks = 'CPLE6'
